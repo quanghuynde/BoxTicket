@@ -43,7 +43,6 @@ backend/
 
 ## 💻 Hướng dẫn cài đặt
 
-### 1. Cài đặt Backend
 1. Truy cập thư mục backend:
    ```bash
    cd Ticket/backend
@@ -76,10 +75,3 @@ backend/
    ```bash
    npm run dev
    ```
-
-### 2. Kiểm thử API (Thunder Client)
-- Import file `api_tests.json` vào Thunder Client của VS Code để sử dụng các mẫu request có sẵn cho Payment và Review.
-
-## 📄 Giấy phép
-
-Dự án này thuộc bản quyền của đội ngũ phát triển TicketBox.
